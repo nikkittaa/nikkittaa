@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on full stack development.
+- 🔭 I’m currently learning react-native.
 - 📫 How to reach me: nikitanb04@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: All I live for are Chai, Code and Books.

@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently learning react-native.
+- 🔭 I’m currently learning DSA (Java).
 - 📫 How to reach me: nikitanb04@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: All I live for are Chai, Code and Books.
+-  Pronouns: she/her
+
 
 ### Skillset
  <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />

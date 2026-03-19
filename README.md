@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently learning DSA (Java).
 - 📫 How to reach me: nikitanb04@gmail.com
 -  Pronouns: she/her
 
